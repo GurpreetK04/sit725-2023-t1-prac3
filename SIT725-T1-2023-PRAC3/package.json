@@ -1,0 +1,28 @@
+{
+  "name": "sit725-t1-2023-prac3",
+  "version": "1.0.0",
+  "description": "SIIT725 Practicals ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GurpreetK04/sit725-2023-t1-prac3.git"
+  },
+  "keywords": [
+    "\"Express\"",
+    "\"Node\"",
+    "\"HTML\"",
+    "\"CSS\"",
+    "\"JS\"",
+    "\"Materialise\""
+  ],
+  "author": "Gurpreet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GurpreetK04/sit725-2023-t1-prac3/issues"
+  },
+  "homepage": "https://github.com/GurpreetK04/sit725-2023-t1-prac3#readme"
+}
